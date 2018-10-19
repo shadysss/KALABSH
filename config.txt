@@ -1,4 +1,4 @@
-token=BOT_TOKEN
+token=NDkyNDQ5Njg5ODI0NjU3NDI4.DqvIlw.38FkbMcbypHZoxr8d4-uP1MRjgw
 owner=418776034058436609
 prefix=#
 game=Type #play
